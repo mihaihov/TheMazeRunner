@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameSceneManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MM_UIManager.cs" Line="56" Column="52" />
+      <File FileName="Assets\Scripts\MM_SceneManager.cs" Line="53" Column="2" />
+      <File FileName="Assets\Scripts\GameSceneManager.cs" Line="522" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

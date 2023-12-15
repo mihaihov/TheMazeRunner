@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Maze Runner.CSharp", "The Maze Runner.CSharp.csproj", "{48D9B3CB-5AEF-8CA2-3CC1-AE2DD82C13B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Maze Runner.CSharp.Editor", "The Maze Runner.CSharp.Editor.csproj", "{110AFD15-D172-99C6-9A87-83C8997E6AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D9B3CB-5AEF-8CA2-3CC1-AE2DD82C13B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D9B3CB-5AEF-8CA2-3CC1-AE2DD82C13B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D9B3CB-5AEF-8CA2-3CC1-AE2DD82C13B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D9B3CB-5AEF-8CA2-3CC1-AE2DD82C13B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{110AFD15-D172-99C6-9A87-83C8997E6AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110AFD15-D172-99C6-9A87-83C8997E6AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110AFD15-D172-99C6-9A87-83C8997E6AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110AFD15-D172-99C6-9A87-83C8997E6AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
